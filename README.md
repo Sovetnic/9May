@@ -10,12 +10,12 @@
         <h1 > 9 Мая: история праздника.</h1> <h2> Как и когда появились традиции Дня Победы</h2>
          <div class="wrap"></div>
 		<div class="block"></div>
-        <div class="photo"><a href="https://youtu.be/pjSVJxiUtXg"><img src="https://s0.rbk.ru/v6_top_pics/resized/600xH/media/img/8/89/347149796595898.webp" height="400" ;="" style="border-radius: 30px;"></a></div>
+        <div class="photo"><a href="https://youtu.be/pjSVJxiUtXg"><img src="https://s0.rbk.ru/v6_top_pics/resized/600xH/media/img/8/89/347149796595898.webp" height="400" style="border-radius: 30px;"></a></div>
         <h2>История праздника 9 Мая</h2>
         <p><big>16 апреля 1945 года началась Берлинская наступательная операция — заключительная часть Второй мировой войны (1939–1945) в Европе. Уже 21 апреля войска Красной армии прорвались через южную окраину Берлина. Начались ожесточенные бои. Германские войска подготовили столицу: на улицах и площадях города сделали окопы для орудий, открыли огневые точки, а метро использовали для незаметного перемещения сил .
 
             Особенно тщательно был укреплен центральный сектор города с административными зданиями. 30 апреля начался бой за Рейхстаг, в это же время в бункере покончил жизнь самоубийством фюрер нацистской Германии Адольф Гитлер. В ночь на 1 мая над зданием Рейхстага водрузили Знамя Победы.</big></p>
-        <img src="https://s0.rbk.ru/v6_top_pics/resized/600xH/media/img/7/35/347149774781357.webp" height="280 " style="border-radius: 30px;" alt="фотография 1"><img src="https://s0.rbk.ru/v6_top_pics/resized/600xH/media/img/7/63/347149778117637.webp" height="280 " style="border-radius: 30px;" alt="фотография 2"><img src="https://s0.rbk.ru/v6_top_pics/resized/600xH/media/img/0/24/347149778888240.webp" height="280 " style="border-radius: 30px;" alt="фотография 3">
+        <img src="https://s0.rbk.ru/v6_top_pics/resized/600xH/media/img/7/35/347149774781357.webp" height="280" style="border-radius: 30px;" alt="фотография 1"><img src="https://s0.rbk.ru/v6_top_pics/resized/600xH/media/img/7/63/347149778117637.webp" height="280" style="border-radius: 30px;" alt="фотография 2"><img src="https://s0.rbk.ru/v6_top_pics/resized/600xH/media/img/0/24/347149778888240.webp" height="280" style="border-radius: 30px;" alt="фотография 3">
         <h2>Как праздновали 9 Мая в СССР</h2>
         <p><big>День Победы в СССР не всегда был выходным. Не работали 9 мая в 1945-м, 1946-м и 1947-м, затем на 20 лет этот день вновь стал рабочим . Даже в 1955-м, на десятую годовщину Дня Победы, никто не отдыхал, военный парад на Красной площади также не проводили, зато были концерты и праздничный салют в Москве и столицах союзных республик .
 
